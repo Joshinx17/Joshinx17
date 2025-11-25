@@ -1,68 +1,36 @@
-<style>
-/* ---------- GLOBAL ANIMATIONS ---------- */
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-12px); }
-  100% { transform: translateY(0px); }
-}
-@keyframes subtleGlow {
-  0% { box-shadow: 0 0 14px #0ef2ff11; }
-  50% { box-shadow: 0 0 22px #0ef2ff55; }
-  100% { box-shadow: 0 0 14px #0ef2ff11; }
-}
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-@keyframes type {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes cursorBlink {
-  50% { border-color: transparent; }
-}
+<!-- ====================================================== -->
+<!-- DARK MODERN ⚡ CYBER GOLD — GITHUB-SAFE ANIMATED README -->
+<!-- ====================================================== -->
 
-/* ---------- DARK MODERN CARD ---------- */
-.card-dark {
-  background: rgba(20, 20, 20, 0.65);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 18px;
-  padding: 22px;
-  margin: 18px;
-  backdrop-filter: blur(6px);
-  animation: subtleGlow 4.5s infinite ease-in-out;
-  transition: 0.3s ease;
-}
-.card-dark:hover {
-  transform: translateY(-6px);
-  background: rgba(28, 28, 28, 0.75);
-  border-color: rgba(0, 255, 240, 0.25);
-}
+<div align="center">
 
-/* ---------- Dark Neon Gradient Background ---------- */
-.dark-bg {
-  background: linear-gradient(135deg, #0a0a0a, #111827, #0f172a, #050505);
-  background-size: 300% 300%;
-  animation: gradientShift 14s ease infinite;
-  border-radius: 18px;
-  padding: 22px;
-}
+<!-- 🔥 GOLD NEON ANIMATED BANNER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=F9D649&center=true&vCenter=true&width=650&lines=JOSHIN+X17;Digital+Architect+%7C+Full-Spectrum+Netrunner;Crafting+Futuristic+Systems" />
 
-/* ---------- TYPEWRITER ---------- */
-.typewriter {
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid #00eaff;
-  animation: type 3.5s steps(40) 1s both, cursorBlink .7s infinite;
-}
-</style>
+---
+
+<!-- GOLDEN ORB -->
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sphere-molecule-flaticons-lineal-color-flat-icons.png" width="70" style="margin-bottom: -10px;" />
+
+# ⚫ **DARK MODERN — CYBER GOLD**
+### Sleek • Premium • Minimal • Futuristic
+
+---
+
+</div>
 
 
-<div align="center" class="dark-bg">
+## 🟨 **PROFILE**
+> A digital architect crafting **clean, sharp, futuristic** experiences.  
+> Focus on clarity • precision • modern motion • immersive design.
 
-# 🌑 **J O S H I N — X 1 7**
-### <div class="typewriter">Dark • Modern • Futuristic • Minimal</div>
+
+---
+
+<div align="center">
+
+## 🟨 **Tech Stack**
+<img src="https://skillicons.dev/icons?i=js,py,java,c,php,html,css,nodejs,bootstrap,mongodb,mysql,git,figma,ps" />
 
 </div>
 
@@ -70,79 +38,41 @@
 
 <div align="center">
 
-## 🌑 Dark Modern Panels
+## 🟨 **GitHub Stats (Gold Theme)**
 
-<div class="card-dark" style="width:88%; animation:float 6s infinite;">
-### 👤 PROFILE  
-A modern developer crafting **clean, sharp, futuristic** digital systems.  
-Focus: clarity • precision • minimal motion • immersive design.
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joshinx17&show_icons=true&theme=great-gatsby&border_color=F9D649&icon_color=F9D649" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=joshinx17&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=F9D649&fire=F9D649&currStreakLabel=F9D649" />
 
-<div class="card-dark" style="width:88%; animation:float 8s infinite;">
-### 🛠 TECH STACK  
-**Core:** JavaScript, Python, Java, C  
-**Frontend:** HTML, CSS, Bootstrap  
-**Backend:** Node.js, MongoDB, MySQL  
-**Tools:** Git, Photoshop, Figma  
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshinx17&layout=compact&theme=great-gatsby&border_color=F9D649" />
 
 </div>
 
 ---
-
-# 🌑 Animated Stats (Dark Neon)
 
 <div align="center">
 
-<div class="card-dark" style="display:inline-block; animation:float 5s infinite;">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joshinx17&show_icons=true&theme=transparent&hide_border=true"/>
-</div>
-
-<div class="card-dark" style="display:inline-block; animation:float 7s infinite;">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=joshinx17&theme=transparent&hide_border=true"/>
-</div>
-
-<div class="card-dark" style="display:inline-block; animation:float 9s infinite;">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshinx17&layout=compact&theme=transparent&hide_border=true"/>
-</div>
+## 🟨 Contribution Graph (Dark Gold)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshinx17&theme=rogue&color=F9D649&point=F9D649&line=F9D649&bg_color=000000&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌑 Activity Graph (Dark Mode)
+## 🟨 **Links**
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-F9D649?style=for-the-badge&logo=twitter&logoColor=000)](https://twitter.com/anewgenpolymath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F9D649?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/joshinsaju)
+[![Instagram](https://img.shields.io/badge/Instagram-F9D649?style=for-the-badge&logo=instagram&logoColor=000)](https://instagram.com/ok_joshin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F9D649?style=for-the-badge&logo=leetcode&logoColor=000)](https://leetcode.com/joshins)
+
+</div>
+
+---
 
 <div align="center">
 
-<div class="card-dark" style="width:90%; animation:float 10s infinite;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshinx17&theme=github-dark&hide_border=true" />
-</div>
-
-</div>
-
----
-
-# 🌑 Dark Neon Buttons
-
-<div align="center">
-
-<a href="https://twitter.com/anewgenpolymath">
-  <img src="https://img.shields.io/badge/Twitter-00eaff?style=for-the-badge&logo=twitter&logoColor=000"/>
-</a>
-<a href="https://linkedin.com/in/joshinsaju">
-  <img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=000"/>
-</a>
-<a href="https://instagram.com/ok_joshin">
-  <img src="https://img.shields.io/badge/Instagram-00eaff?style=for-the-badge&logo=instagram&logoColor=000"/>
-</a>
-
-</div>
-
----
-
-<div align="center" class="card-dark" style="width:70%; animation:float 6s infinite;">
-  
-### 🌑 FINAL NOTE  
-*"Darkness sharpens clarity — modern design sharpens experience."*
+### 🟨 **Final Note**
+**“In the dark, gold shines the brightest.”**
 
 </div>
