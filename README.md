@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- 🔥 GOLD NEON ANIMATED BANNER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=F9D649&center=true&vCenter=true&width=650&lines=JOSHIN+X17;Digital+Architect+%7C+Full-Spectrum+Netrunner;Crafting+Futuristic+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=F9D649&center=true&vCenter=true&width=650&lines=JOSHIN+X17; Digital+Architect+%7C+Full-Spectrum+Netrunner;Crafting+Futuristic+Systems" />
 
 ---
 
