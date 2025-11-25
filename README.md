@@ -159,7 +159,7 @@
     <summary>🔐 ENCRYPTED_DATA_DETECTED 🔐</summary>
     <br>
     <p>NEURAL_SYNC_COMPLETE :: You've discovered a hidden security breach! Beyond the code matrix, I create immersive digital experiences that blend reality with technology.</p>
-    <img src="[https://via.placeholder.com/200/000000/00FFFF?text=ACCESS+GRANTED](https://i.giphy.com/Zbbbvez4VtDUGEtEjh.webp)" alt="Hidden Achievement"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I2Y2xlNzlvMmc4cWNiZmQ5M3psazV2ZzAwdzY4OWFlOXQ2ejcwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zbbbvez4VtDUGEtEjh/giphy.gif" alt="Hidden Achievement"/>
   </details>
   
 </div>
