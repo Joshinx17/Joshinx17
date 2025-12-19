@@ -17,16 +17,16 @@
 
 ## 🌠 About Me
 
-I am a **Computer Science engineer and full-stack developer** with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI**.
+I am a **Computer Science engineer and full-stack developer** with a strong interest in **Artificial Intelligence, Machine Learning, and Agentic AI**.
 
-I enjoy building **clean, scalable systems**, designing **modern user interfaces**, and  
-working on projects that combine **logic, creativity, and real-world impact**.
+I enjoy building **clean, scalable systems**, designing **modern user interfaces**, and working on projects that combine **logic, creativity, and real-world impact**.
 
 My focus areas include:
 - Full-stack web development  
 - AI/ML systems (LLMs, GANs, personalization)  
-- Modern UI/UX with dark, futuristic aesthetics  
-- Writing maintainable, production-ready code  
+- Modern UI/UX with modern, futuristic aesthetics  
+- Writing maintainable, production-ready code
+- Adopting an inter-disciplinary approach in everything 
 
 I’m constantly learning, experimenting, and pushing myself to build better systems.
 
