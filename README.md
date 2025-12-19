@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Joshin-X17 Header" width="100%">
+  <img src="header.svg" alt="Joshin-X17 Header" width="100%">
 </div>
 
 ---
