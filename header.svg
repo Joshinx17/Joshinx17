@@ -46,7 +46,7 @@
 
         @keyframes type {
           from { width: 0; }
-          to { width: 40ch; } /* Uses character count for scaling */
+          to { width: 41ch; } /* Uses character count for scaling */
         }
 
         @keyframes cursorBlink {
@@ -56,7 +56,7 @@
 
       <div class="container">
         <div class="title">🌑 J O S H I N — X 1 7</div>
-        <div class="typewriter">Engineer • Polymath • Renaissance Man</div>
+        <div class="typewriter">Engineer • Builder • Thinker • Optimizer</div>
       </div>
     </div>
   </foreignObject>
