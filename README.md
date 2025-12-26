@@ -100,8 +100,6 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 </p>
 
 <br>
-<br>
-<br>
 
 <div align="center">
   <details>
