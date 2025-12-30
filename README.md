@@ -36,7 +36,7 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshinx17&show_icons=true&theme=tokyonight&title_color=bb86fc&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=joshinx17&theme=tokyonight&ring=00d9ff&currStreakLabel=bb86fc&background=0d1117" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=joshinx17&theme=tokyonight&ring=00d9ff&currStreakLabel=bb86fc&background=0d1117" />
 </p>
 
 <p align="center">
