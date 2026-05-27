@@ -68,11 +68,12 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 
 ### 🤖 AI, ML & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,sklearn,matplotlib" />
 </p>
 
 <p align="center">
-  NumPy • Pandas • Matplotlib • Scikit-learn • Keras • Prompt Engineering
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -86,16 +87,22 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 </p>
 
 <p align="center">
-  Power BI • MS Excel • MS Word
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </p>
 
 ### 🎨 Design & UI/UX
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,streamlit" />
 </p>
 
 <p align="center">
-  Tkinter • CustomTkinter • Streamlit • Canva • Google Sites • DaVinci Resolve
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
