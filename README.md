@@ -56,19 +56,46 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 
 ## 🧩 Tools, Technologies & Languages
 
-### Programming Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,kotlin,mysql,markdown" />
 </p>
 
-### Frameworks & Libraries
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,flask,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs" />
 </p>
 
-### Databases & Tools
+### 🤖 AI, ML & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,photoshop,android" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+<p align="center">
+  NumPy • Pandas • Matplotlib • Scikit-learn • Keras • Prompt Engineering
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,matlab" />
+</p>
+
+<p align="center">
+  Power BI • MS Excel • MS Word
+</p>
+
+### 🎨 Design & UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+<p align="center">
+  Tkinter • CustomTkinter • Streamlit • Canva • Google Sites • DaVinci Resolve
 </p>
 
 ---
