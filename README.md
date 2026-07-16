@@ -17,6 +17,8 @@
 
 ## 🌠 About Me
 
+<div align="left">
+
 I am a **Computer Science engineer and full-stack developer** with a strong interest in **Artificial Intelligence, Machine Learning, and Agentic AI**.
 
 I enjoy building **clean, scalable systems**, designing **modern user interfaces**, and working on projects that combine **logic, creativity, and real-world impact**.
@@ -28,7 +30,9 @@ My focus areas include:
 - Writing maintainable, production-ready code
 - Adopting an inter-disciplinary approach in everything 
 
-I’m constantly learning, experimenting, and pushing myself to build better systems.
+I'm constantly learning, experimenting, and pushing myself to build better systems.
+
+</div>
 
 ---
 
@@ -56,53 +60,13 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
 
 ## 🧩 Tools, Technologies & Languages
 
-### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,kotlin,mysql,markdown" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs" />
-</p>
-
-### 🤖 AI, ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,sklearn,matplotlib" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,matlab" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-</p>
-
-### 🎨 Design & UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,streamlit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,kotlin,md,html,css,bootstrap,tailwind,react,nodejs,tensorflow,opencv,sklearn,mysql,mongodb,sqlite,git,github,vscode,idea,androidstudio,matlab,figma,ps&perline=13" />
+  <br/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
 </p>
 
 ---
@@ -139,8 +103,7 @@ I’m constantly learning, experimenting, and pushing myself to build better sys
   <details>
     <summary>🔐 HIDDEN_ARCHIVES 🔐</summary>
     <br>
-    <p>WELCOME_FELLOW_ENGINEER ::  You’ve uncovered a forgotten data vault. Beyond the observable interface, I design systems that navigate between imagination and engineered reality. Here, raw logic meets creativity, and code is shaped into living digital experiences...</p>
+    <p>WELCOME_FELLOW_ENGINEER ::  You've uncovered a forgotten data vault. Beyond the observable interface, I design systems that navigate between imagination and engineered reality. Here, raw logic meets creativity, and code is shaped into living digital experiences...</p>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I2Y2xlNzlvMmc4cWNiZmQ5M3psazV2ZzAwdzY4OWFlOXQ2ejcwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zbbbvez4VtDUGEtEjh/giphy.gif" alt="Hidden Achievement"/>
   </details>
-  
 </div>
